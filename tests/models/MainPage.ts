@@ -151,3 +151,5 @@ export class MainPage {
     await expect(this.page).toHaveScreenshot(`pageWithDarkMode.png`);
   }
 }
+
+//1
